@@ -55,6 +55,7 @@ public class ModificarDatos extends AppCompatActivity {
                     Toast.makeText(ModificarDatos.this, "Mascota Seleccionada", Toast.LENGTH_SHORT).show();
                 } else {
                     Toast.makeText(ModificarDatos.this, "El campo ID no debe esta vacio", Toast.LENGTH_SHORT).show();
+                    //mensaje
                 }
 
             }
