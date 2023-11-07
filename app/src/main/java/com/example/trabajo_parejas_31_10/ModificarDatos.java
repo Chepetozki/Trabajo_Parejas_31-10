@@ -42,6 +42,7 @@ public class ModificarDatos extends AppCompatActivity {
         Buscar = findViewById(R.id.btnMostrarMascota);
         Volver = findViewById(R.id.btnVolverTabla);
 
+        //clic en eliminar, realizar el showAlert
         Eliminar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
