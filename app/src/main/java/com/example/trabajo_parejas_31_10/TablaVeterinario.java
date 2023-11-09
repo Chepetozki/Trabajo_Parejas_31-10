@@ -17,7 +17,7 @@ public class TablaVeterinario extends AppCompatActivity {
 
     ListView lista;
     Button Gestionar, Volver;
-//hola shepetosqui
+//hola gio
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
